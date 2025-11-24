@@ -1,16 +1,26 @@
-# React + Vite
+# Click here to view Movie-Website https://mahi-moviewebsite.netlify.app/
+# 🎬 React Movie Explorer (TMDB API)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully functional movie browsing application built with React and powered by The Movie Database (TMDB) API. Users can view trending/popular movies, search for specific titles, and save favorite movies — which persist using localStorage.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+✔ Search movies from TMDB  
+✔ Browse popular movies  
+✔ Add / remove movies from Favorites  
+✔ Favorites stored in localStorage  
+✔ Responsive movie card UI  
+✔ Modular component design  
+✔ Clean and maintainable code  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React (Hooks & Context API)
+- TMDB REST API
+- JavaScript (ES6+)
+- CSS / Flexbox
+- localStorage persistence
