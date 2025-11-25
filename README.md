@@ -1,5 +1,5 @@
 # Click here to view Movie-Website https://mahi-moviewebsite.netlify.app/
-# 🎬 React Movie Explorer !
+# 🎬 React Movie Explorer !!
 
 A fully functional movie browsing application built with React and powered by The Movie Database (TMDB) API. Users can view trending/popular movies, search for specific titles, and save favorite movies — which persist using localStorage.
 
