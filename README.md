@@ -13,7 +13,7 @@ A fully functional movie browsing application built with React and powered by Th
 ✔ Favorites stored in localStorage  
 ✔ Responsive movie card UI  
 ✔ Modular component design  
-✔ Clean and maintainable code  
+✔ Clean and maintainable code..
 
 ---
 
